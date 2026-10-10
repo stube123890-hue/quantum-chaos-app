@@ -1,0 +1,1 @@
+{"dependencies":{"cors":"^2.8.5","express":"^5.1.0"},"description":"2D physics playground API — balls bouncing in a circular arena with true elastic collisions.","license":"ISC","main":"server.js","name":"quantum-chaos-app","scripts":{"start":"node server.js","test":"node test.js"},"version":"2.0.0"}
